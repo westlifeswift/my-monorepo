@@ -18,13 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/westlifeswift/my-monorepo.git"
+    "url": "git+https://github.com/test/my-monorepo.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/westlifeswift/my-monorepo/issues"
+    "url": "https://github.com/test/my-monorepo/issues"
   },
-  "homepage": "https://github.com/westlifeswift/my-monorepo#readme"
+  "homepage": "https://github.com/westlifeswift/my-monorepo#readme",
+  "gitHead": "c006b65d8e58156d3412ee8a0f93e702d31fc54d"
 }
