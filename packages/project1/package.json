@@ -1,6 +1,6 @@
 {
   "name": "@mymonorepo/project1",
-  "version": "0.0.8",
+  "version": "1.0.8",
   "description": "> TODO: description",
   "author": "nobody",
   "homepage": "https://github.com/wswift/my-monorepo#readme",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/wswift/my-monorepo/issues"
   },
-  "gitHead": "8f3bd1ebb1ccde7a943fe04aff352906e092cb57"
+  "gitHead": "a0f59a911b1371e86e4023ac1fd81bc3d71090d5"
 }
