@@ -1,11 +1,11 @@
 {
-  "name": "mymonorepo-project1",
+  "name": "mymonorepo-project2",
   "version": "0.0.9",
   "description": "> TODO: description",
-  "author": "nobody",
-  "homepage": "https://github.com/wswift/my-monorepo#readme",
-  "license": "MIT",
-  "main": "lib/project1.js",
+  "author": "westlifeswift <2295857249@qq.com>",
+  "homepage": "https://github.com/westlifeswift/my-monorepo#readme",
+  "license": "ISC",
+  "main": "lib/project2.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -13,12 +13,9 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wswift/my-monorepo.git"
+    "url": "git+https://github.com/westlifeswift/my-monorepo.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
@@ -26,9 +23,8 @@
     "build": "webpack"
   },
   "bugs": {
-    "url": "https://github.com/wswift/my-monorepo/issues"
+    "url": "https://github.com/westlifeswift/my-monorepo/issues"
   },
-  "gitHead": "a0f59a911b1371e86e4023ac1fd81bc3d71090d5",
   "dependencies": {
     "@babel/core": "^7.23.2"
   }

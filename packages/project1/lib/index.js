@@ -1,0 +1,1 @@
+!function(o,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==typeof define&&define.amd?define([],e):"object"==typeof exports?exports["mymonorepo-project2"]=e():o["mymonorepo-project2"]=e()}(this,(()=>(console.log("project1"),{})));
