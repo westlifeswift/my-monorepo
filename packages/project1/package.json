@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/wswift/my-monorepo/issues"
   },
-  "gitHead": "326a6503729c9a02ec35f33835818153bd86f4dd"
+  "gitHead": "7d720a2433f2ba9782df31d598d25edc6adecd19"
 }
