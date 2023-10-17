@@ -4,7 +4,7 @@
   "description": "> TODO: description",
   "author": "nobody",
   "homepage": "https://github.com/wswift/my-monorepo#readme",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/project1.js",
   "directories": {
     "lib": "lib",
@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "access": "public"
   },
   "repository": {
     "type": "git",
