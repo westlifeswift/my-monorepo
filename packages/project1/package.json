@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "> TODO: description",
   "author": "nobody",
-  "homepage": "https://github.com/westlifeswift/my-monorepo#readme",
+  "homepage": "https://github.com/wswift/my-monorepo#readme",
   "license": "ISC",
   "main": "lib/project1.js",
   "directories": {
@@ -18,13 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/westlifeswift/my-monorepo.git"
+    "url": "git+https://github.com/wswift/my-monorepo.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/westlifeswift/my-monorepo/issues"
+    "url": "https://github.com/wswift/my-monorepo/issues"
   },
-  "gitHead": "c006b65d8e58156d3412ee8a0f93e702d31fc54d"
+  "gitHead": "69b7b8513d5d9b76e798f4ad013a5bf0e8891033"
 }
