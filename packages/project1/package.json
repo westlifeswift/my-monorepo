@@ -1,8 +1,8 @@
 {
-  "name": "project1",
+  "name": "@mymonorepo/project1",
   "version": "0.0.0",
   "description": "> TODO: description",
-  "author": "westlifeswift <2295857249@qq.com>",
+  "author": "nobody",
   "homepage": "https://github.com/westlifeswift/my-monorepo#readme",
   "license": "ISC",
   "main": "lib/project1.js",
